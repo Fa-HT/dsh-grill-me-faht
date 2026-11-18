@@ -1,0 +1,4 @@
+- insert:
+    - id: grill-me
+      name: dsh-grill-me-faht
+      config: {}

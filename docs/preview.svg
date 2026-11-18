@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="300" viewBox="0 0 640 300" role="img" aria-label="Three question bubbles with option chips, each feeding a branching line into one circle with a check mark">
+  <path d="M74 46H226A16 16 0 0 1 242 62V94A16 16 0 0 1 226 110H112L92 124V110H74A16 16 0 0 1 58 94V62A16 16 0 0 1 74 46Z" fill="#3C8C90" fill-opacity="0.1" stroke="#3C8C90" stroke-width="2.5"/>
+  <rect x="76" y="60" width="112" height="9" rx="4.5" fill="#3C8C90" fill-opacity="0.45"/>
+  <rect x="76" y="83" width="44" height="12" rx="6" fill="#E0A45C" fill-opacity="0.85"/>
+  <rect x="128" y="83" width="44" height="12" rx="6" fill="#3C8C90" fill-opacity="0.18"/>
+  <rect x="180" y="83" width="44" height="12" rx="6" fill="#3C8C90" fill-opacity="0.18"/>
+  <path d="M74 118H226A16 16 0 0 1 242 134V166A16 16 0 0 1 226 182H112L92 196V182H74A16 16 0 0 1 58 166V134A16 16 0 0 1 74 118Z" fill="#3C8C90" fill-opacity="0.1" stroke="#3C8C90" stroke-width="2.5"/>
+  <rect x="76" y="132" width="112" height="9" rx="4.5" fill="#3C8C90" fill-opacity="0.45"/>
+  <rect x="76" y="155" width="44" height="12" rx="6" fill="#E0A45C" fill-opacity="0.85"/>
+  <rect x="128" y="155" width="44" height="12" rx="6" fill="#3C8C90" fill-opacity="0.18"/>
+  <rect x="180" y="155" width="44" height="12" rx="6" fill="#3C8C90" fill-opacity="0.18"/>
+  <path d="M74 190H226A16 16 0 0 1 242 206V238A16 16 0 0 1 226 254H112L92 268V254H74A16 16 0 0 1 58 238V206A16 16 0 0 1 74 190Z" fill="#3C8C90" fill-opacity="0.1" stroke="#3C8C90" stroke-width="2.5"/>
+  <rect x="76" y="204" width="112" height="9" rx="4.5" fill="#3C8C90" fill-opacity="0.45"/>
+  <rect x="76" y="227" width="44" height="12" rx="6" fill="#E0A45C" fill-opacity="0.85"/>
+  <rect x="128" y="227" width="44" height="12" rx="6" fill="#3C8C90" fill-opacity="0.18"/>
+  <rect x="180" y="227" width="44" height="12" rx="6" fill="#3C8C90" fill-opacity="0.18"/>
+  <path fill="none" stroke="#3C8C90" stroke-width="2.5" stroke-linecap="round" d="M242 78C278 78 276 150 300 150M242 150H300M242 222C278 222 276 150 300 150"/>
+  <circle cx="300" cy="150" r="5" fill="#3C8C90"/>
+  <path fill="none" stroke="#3C8C90" stroke-width="2.5" stroke-linecap="round" d="M305 150H410"/>
+  <circle cx="444" cy="150" r="34" fill="#3C8C90" fill-opacity="0.1" stroke="#3C8C90" stroke-width="3"/>
+  <path fill="none" stroke="#3C8C90" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" d="M428 151L440 163L464 135"/>
+</svg>

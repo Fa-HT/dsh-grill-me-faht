@@ -1,0 +1,7 @@
+{
+  "meta": {
+    "title": "dsh-grill-me-faht",
+    "description": "Interviews you one question at a time until every branch of a plan or design is decided, then closes with the decision list, or with a plan submitted for approval when the session is in plan mode. Trigger it with /grill-me or let the model load it when a plan needs stress-testing. Turning the plugin off removes the skill and the /grill-me command from the catalog; text already injected into a conversation stays there.",
+    "detail": "docs/DETAIL.md"
+  }
+}
