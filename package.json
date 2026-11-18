@@ -1,6 +1,6 @@
 {
   "name": "dsh-grill-me-faht",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Skill-only DeepSeek Harness bundle that interviews you about a plan until every branch of the decision tree is resolved.",
   "license": "MIT",
   "type": "module",
